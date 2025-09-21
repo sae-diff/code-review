@@ -27,7 +27,7 @@ Clone the repo and prepare an environment with essential dependencies (Python 3.
 
 ```shell
 git clone tbd
-conda create -n conceptual-blindspots python=3.10
+conda create -n conceptual-blindspots python=3.10 
 conda activate conceptual-blindspots
 pip install -r requirements.txt
 ```
